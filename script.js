@@ -11,7 +11,7 @@ formulario.addEventListener('submit', (c) => {
 
   let convertData = JSON.stringify(dados);
 
-  localStorage.setItem('lead', convertData);
+  localStorage.setItem('usuario', convertData);
 
   let content = document.getElementById('content')
 
