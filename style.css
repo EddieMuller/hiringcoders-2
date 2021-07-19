@@ -116,3 +116,9 @@ input{
     text-align: center;
 }
 
+.cadastro{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+}
